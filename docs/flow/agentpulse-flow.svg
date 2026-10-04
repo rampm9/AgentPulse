@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="760" viewBox="0 0 1280 760" fill="none">
+  <rect width="1280" height="760" rx="28" fill="#1E2320"/>
+  <text x="48" y="56" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="28" font-weight="700">AgentPulse user flow</text>
+  <text x="48" y="86" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="14">Import this file into Figma. Each card is one screen or one decision.</text>
+
+  <g>
+    <rect x="48" y="130" width="220" height="120" rx="16" fill="#2A312C" stroke="#6F8F62"/>
+    <text x="68" y="168" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">MENU BAR</text>
+    <text x="68" y="198" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Click the icon</text>
+    <text x="68" y="222" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="13">Shows the fullest limit</text>
+  </g>
+
+  <path d="M268 190 H320" stroke="#6F8F62" stroke-width="2"/>
+  <path d="M312 184 L324 190 L312 196" stroke="#6F8F62" stroke-width="2" fill="none"/>
+
+  <g>
+    <rect x="332" y="120" width="280" height="280" rx="16" fill="#2A312C" stroke="#E4E7D8"/>
+    <text x="352" y="156" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">PANEL</text>
+    <text x="352" y="188" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700">Plan and usage</text>
+    <text x="352" y="220" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">Plan name for this Mac</text>
+    <text x="352" y="244" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">Session and weekly limits</text>
+    <text x="352" y="268" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">This week</text>
+    <text x="352" y="292" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">Tokens by model</text>
+    <text x="352" y="330" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="13">Palette changes the theme</text>
+    <text x="352" y="354" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="13">Chips filter Claude or Codex</text>
+    <text x="352" y="378" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="13">Quit closes the app</text>
+  </g>
+
+  <path d="M612 230 H664" stroke="#6F8F62" stroke-width="2"/>
+  <path d="M656 224 L668 230 L656 236" stroke="#6F8F62" stroke-width="2" fill="none"/>
+
+  <g>
+    <rect x="676" y="160" width="250" height="140" rx="16" fill="#243028" stroke="#C4A15A"/>
+    <text x="696" y="196" fill="#C4A15A" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">DECISION</text>
+    <text x="696" y="228" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Is the Claude Code</text>
+    <text x="696" y="250" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">sign-in still valid?</text>
+  </g>
+
+  <path d="M801 160 V118 H980" stroke="#6F8F62" stroke-width="2"/>
+  <path d="M972 112 L984 118 L972 124" stroke="#6F8F62" stroke-width="2" fill="none"/>
+  <text x="820" y="108" fill="#8FBF78" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700">Yes</text>
+
+  <g>
+    <rect x="992" y="70" width="240" height="110" rx="16" fill="#2A312C" stroke="#6F8F62"/>
+    <text x="1012" y="106" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">LIVE</text>
+    <text x="1012" y="136" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Ask Anthropic</text>
+    <text x="1012" y="160" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="13">Session and weekly percents</text>
+  </g>
+
+  <path d="M801 300 V360 H980" stroke="#C4A15A" stroke-width="2"/>
+  <path d="M972 354 L984 360 L972 366" stroke="#C4A15A" stroke-width="2" fill="none"/>
+  <text x="820" y="348" fill="#C4A15A" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700">No</text>
+
+  <g>
+    <rect x="992" y="310" width="240" height="130" rx="16" fill="#2A312C" stroke="#C4A15A"/>
+    <text x="1012" y="346" fill="#C4A15A" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">FALLBACK</text>
+    <text x="1012" y="376" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Claude app reading</text>
+    <text x="1012" y="402" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="13">Newest saved sample.</text>
+    <text x="1012" y="422" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="13">Drop a closed window.</text>
+  </g>
+
+  <path d="M472 400 V470 H560" stroke="#6F8F62" stroke-width="2"/>
+  <path d="M552 464 L564 470 L552 476" stroke="#6F8F62" stroke-width="2" fill="none"/>
+  <text x="488" y="458" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="13">Gear</text>
+
+  <g>
+    <rect x="572" y="500" width="260" height="150" rx="16" fill="#2A312C" stroke="#6F8F62"/>
+    <text x="592" y="536" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">SETTINGS</text>
+    <text x="592" y="568" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Preferences</text>
+    <text x="592" y="596" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="13">Agents, refresh, bar percent</text>
+    <text x="592" y="620" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="13">Not all of these are active yet</text>
+  </g>
+
+  <g>
+    <rect x="48" y="560" width="420" height="140" rx="16" fill="#243028" stroke="#3C463E"/>
+    <text x="68" y="596" fill="#9AA394" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="700">PLAN RULE</text>
+    <text x="68" y="628" fill="#E4E7D8" font-family="Helvetica, Arial, sans-serif" font-size="15">The plan name is whatever Claude Code saved.</text>
+    <text x="68" y="654" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">Pro stays Pro until that status says Max.</text>
+    <text x="68" y="678" fill="#C5CBB8" font-family="Helvetica, Arial, sans-serif" font-size="14">An expired sign-in is labeled on the plan row.</text>
+  </g>
+</svg>

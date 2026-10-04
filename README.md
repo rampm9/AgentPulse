@@ -4,6 +4,21 @@ AgentPulse is a macOS menu-bar app for one person who uses more than one AI codi
 
 This document is the product definition for the version in this folder. It describes what the app does now, how to tell that it is working, and what is intentionally out of scope.
 
+## Screens
+
+The panel and the settings page, captured from this Mac:
+
+<p>
+  <img src="docs/screenshots/panel.png" alt="AgentPulse panel with the plan, session limit, and weekly limit" width="320">
+  <img src="docs/screenshots/settings.png" alt="AgentPulse settings page" width="320">
+</p>
+
+## Flow
+
+The flow below is the screen sequence and the limit decision. The source file is [docs/flow/agentpulse-flow.svg](docs/flow/agentpulse-flow.svg). In Figma, use File › Place image, or paste the SVG onto a frame. Each card is one screen or one decision.
+
+<img src="docs/flow/agentpulse-flow.svg" alt="AgentPulse user flow from the menu bar through the panel, the limit decision, and settings" width="900">
+
 ## Problem
 
 Claude Code, Codex, and Cursor each keep their own plan and usage. The numbers that matter, the allowance percent and the tokens already spent, are buried in account files, a desktop app, or a vendor page. A stale percent is worse than no percent, because it looks current.
